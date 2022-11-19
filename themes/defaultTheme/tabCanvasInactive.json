@@ -1,0 +1,16 @@
+{
+  "background_color": "3f96beff",
+  "bg_type": "one",
+  "border_color": "ffffffff",
+  "border_style": "plain",
+  "border_type": 0,
+  "border_width": 0,
+  "font_color": "ffffffff",
+  "font_name": "iphoneSystem",
+  "font_size": 90,
+  "font_style": "normal",
+  "font_weight": "400",
+  "isDefaultSkin": true,
+  "kuid": "sd611d01d011417cb8ff9ecc7a85f779",
+  "wType": "TabPane"
+}

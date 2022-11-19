@@ -1,0 +1,52 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizButton",
+    "DNDConfig": null,
+    "_height_": {
+        "type": "string",
+        "value": "50dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "5%"
+    },
+    "_margin_": [
+        6,
+        6,
+        6,
+        6
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s4d285e49b8e44b0be058fb6bc51eb14",
+    "_text_": "Add New Product",
+    "_top_": {
+        "type": "string",
+        "value": "0dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "90%"
+    },
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "displaytext": true,
+    "focusskin": "s85d406171cb40ada9f1243fa85fb28e",
+    "id": "Button0h710167a30e94a",
+    "ide_onClick": "AS_Button_dbd92c837d3047a4b850c2e87be1f3d7",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "c584557dc2dd4222ab767c763c9f0cb3",
+    "name": "kony.ui.Button",
+    "parent": "frmProducts",
+    "pf": "frmProducts",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "wType": "Button",
+    "zindex": 1
+}
